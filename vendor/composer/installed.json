@@ -1,0 +1,31 @@
+[
+    {
+        "name": "arshaw/phpti",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/arshaw/phpti.git",
+            "reference": "aa409f7c27a539caf69b32c31783a88a3bb88ecd"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/arshaw/phpti/zipball/aa409f7c27a539caf69b32c31783a88a3bb88ecd",
+            "reference": "aa409f7c27a539caf69b32c31783a88a3bb88ecd",
+            "shasum": ""
+        },
+        "time": "2020-07-08T01:58:11+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "files": [
+                "src/ti.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "description": "Template Inheritance is an extremely useful technique for making reusable HTML layouts for a site"
+    }
+]
